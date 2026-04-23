@@ -1,2 +1,3 @@
 # ai-vessel-support-assistant
-No Description
+AI System
+AI system that resolves marine vessel support tickets using RAG + LLM
